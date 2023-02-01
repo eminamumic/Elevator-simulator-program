@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1675245205 source:c:\users\emina\dropbox\pc\desktop\elevator-project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"validacija.h"
+	"panel.h"
+
+1675096944 c:\users\emina\dropbox\pc\desktop\elevator-project\funkcije.h
+
+1675104218 c:\users\emina\dropbox\pc\desktop\elevator-project\validacija.h
+
+1675206826 c:\users\emina\dropbox\pc\desktop\elevator-project\panel.h
+	"strukture.h"
+	<windows.h>
+	"adminPanel.h"
+	"korisnikPanel.h"
+
+1675206821 c:\users\emina\dropbox\pc\desktop\elevator-project\strukture.h
+
+1675183463 c:\users\emina\dropbox\pc\desktop\elevator-project\adminpanel.h
+	"adminFunkcije.h"
+
+1675206825 c:\users\emina\dropbox\pc\desktop\elevator-project\adminfunkcije.h
+
+1675207130 c:\users\emina\dropbox\pc\desktop\elevator-project\korisnikpanel.h
+	"korisnik.Funkcije.h"
+
+1675245678 c:\users\emina\dropbox\pc\desktop\elevator-project\korisnik.funkcije.h
+	"strukture.h"
+
+1675245205 source:c:\users\emina\dropbox\pc\desktop\projekat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"validacija.h"
+	"panel.h"
+
+1675104218 c:\users\emina\dropbox\pc\desktop\projekat\validacija.h
+
+1675206826 c:\users\emina\dropbox\pc\desktop\projekat\panel.h
+	"strukture.h"
+	<windows.h>
+	"adminPanel.h"
+	"korisnikPanel.h"
+
+1675206821 c:\users\emina\dropbox\pc\desktop\projekat\strukture.h
+
+1675183463 c:\users\emina\dropbox\pc\desktop\projekat\adminpanel.h
+	"adminFunkcije.h"
+
+1675260489 c:\users\emina\dropbox\pc\desktop\projekat\adminfunkcije.h
+
+1675207130 c:\users\emina\dropbox\pc\desktop\projekat\korisnikpanel.h
+	"korisnik.Funkcije.h"
+
+1675245750 c:\users\emina\dropbox\pc\desktop\projekat\korisnik.funkcije.h
+	"strukture.h"
+
